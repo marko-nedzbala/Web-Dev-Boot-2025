@@ -3,6 +3,7 @@ Notes for useful sections to return to:
 Section05 -> HTML: Forms & Tables
 Section06 -> CSS: The Very Basics
 Section07 -> Selectors
+Section08 -> Box Model
 
 
 

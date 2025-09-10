@@ -1,0 +1,86 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between; /* main axis */
+    flex-wrap: wrap;
+    align-items: flex-end; /* cross axis */
+
+    /* Align-content space along the cross axis, need to have flex-wrap: wrap on */
+    /* space between rows/columns */
+    align-content: center;
+    
+
+
+    /* to center */
+    /* justify-content: center; */
+    /* align-items: center; */
+
+
+
+    background-color: #003049;
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    border: 5px solid #003049;
+}
+
+#container div {
+    width: 200px;
+    height: 200px;
+
+    /* flex items on the individual item */
+    /* flex-basis: 200px; */
+    /* flex-grow: 1; */
+    /* flex: flex_grow flex_shrink flex-basis; */
+}
+
+div:nth-of-type(3) {
+    align-self: flex-end; /* to individual items in the container, along the cross axis */
+    flex-grow: 1;
+    flex-shrink: 2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
