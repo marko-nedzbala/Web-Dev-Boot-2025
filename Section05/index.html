@@ -8,9 +8,26 @@
 <body>
 
     <h1>Section05</h1>
-    <!-- action is where we go to when the form is submitted -->
-    <form action="">
 
+    <button>Fake submit</button>
+
+    <!-- action is where we go to when the form is submitted -->
+    <form action="/somewhere">
+        <!-- the for = id -->
+        <label for="example">Example</label>
+
+        <!-- name is how the data is sent to the server -->
+        <!-- https://www.mysite/actionLink?name=value -->
+        <input type="text" name="example" id="example">
+
+        <label for="example2">Example2</label>
+        <!-- https://www.mysite/actionLink?name01=value01&name02=value02 -->
+        <input type="text" name="example2" id="example2">
+
+        <!-- button inside a form submits the form -->
+        <!-- change type to button to not submit the form -->
+        <!-- thedefault for a button inside a form is to submit  -->
+        <button type="submit" value="Submit">Submit</button>
     </form>
     
 </body>
