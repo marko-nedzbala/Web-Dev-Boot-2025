@@ -1,0 +1,8 @@
+p {
+    text-align: center;
+    font-weight: 800;
+    text-decoration: #0FFF20 underline wavy;
+
+    /* CSS Font references */
+    font-family: Segoe UI, Futura;
+}
