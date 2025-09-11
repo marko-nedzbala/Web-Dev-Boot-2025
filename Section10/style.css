@@ -49,7 +49,12 @@ div:nth-of-type(3) {
     flex-shrink: 2;
 }
 
-
+/* Media Queries */
+@media(min-width: 500px) and (max-width: 700px) {
+    body {
+        background-color: blueviolet;
+    }
+}
 
 
 
