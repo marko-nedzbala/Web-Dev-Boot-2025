@@ -16,7 +16,7 @@ body {
 
 #sidebar-nav{
     position: sticky;
-    top: 0px;
+    top: 10px;
 }
 
 .navbar {
