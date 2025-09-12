@@ -8,7 +8,7 @@ Section09 -> Misc. CSS Properties
 Section10 -> Responsive CSS & Flexbox
 Section11 -> Pricing Panel Project
 Section12 -> Bootstrap, and side Navbars
-
+Section13 -> Museum of Candy
 
 
 
