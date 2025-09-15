@@ -12,17 +12,24 @@ Section13 -> Museum of Candy
 Section28 -> AJAX and APIs (Example TV API)
 Section31 -> FS Node.js example
 Section32 -> NPM
-Section33 -> Express
+Section33 -> Express, and Route Parameters
+Section34 -> Templates (Excellent chapter, really helps me understand what is going on)
+Section35 -> RESTful routes (Also editing comments, again excellent) REVEIW THIS OFTEN!!!
+Section36 -> Beginning MongoDB
 
 
+npm i express
+npm i nodemon
+npm i ejs
+npm i uuid
+npm i method-override
+  "scripts": {
+    "start": "nodemon app.js"
+npm i ejs VS Code Plugin == https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support
+<link rel="stylesheet" href="/css/bootstrap.min.css">
 
-
-
-
-
-
-
-
+Course Notes
+https://gist.github.com/nax3t/8ca0df4318fa5ffd5c98942292e9259c
 
 
 

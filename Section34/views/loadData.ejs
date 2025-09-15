@@ -1,0 +1,26 @@
+<%- include('partials/head') %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- referencing the public CSS directory-->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>Loading Data</title>
+</head>
+<body>
+    <h1>Loading data</h1>
+    <p>Description: <%= description %></p>
+    <p>Number of subscribers: <%= subscribers %></p>
+    <hr>
+    <h3>Posts</h3>
+        <% for(let post of posts) { %>
+            <p><%= post.title %> by <b><%= post.author %></b></p>
+            <% if(post.img) { %>
+                <img src="<%= post.img %>" height="100" width="100">
+            <% } %>
+        <% } %>
+</body>
+</html>

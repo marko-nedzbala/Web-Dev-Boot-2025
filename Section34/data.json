@@ -1,0 +1,39 @@
+{
+    "soccer": {
+        "name": "Soccer",
+        "subscribers": 800000,
+        "description": "The Football subreddit",
+        "posts": [
+            {
+                "title": "Some guy scores a goal",
+                "author": "football thug"
+            },
+            {
+                "title": "The World Cup will happen",
+                "author": "big fan"
+            }
+        ]
+    },
+    "food": {
+        "name": "Food Items",
+        "subscribers": 10078,
+        "description": "things to eat",
+        "posts": [
+            {
+                "title": "Good things to eat",
+                "author": "good cook",
+                "img": "https://us-east-1-029060369-view.menlosecurity.com/c/0/i/aHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE1MDY3NDQwMzgxMzYtNDYyNzM4MzRiM2ZiP3E9ODAmdz0yMDcwJmF1dG89Zm9ybWF0JmZpdD1jcm9wJml4bGliPXJiLTQuMS4wJml4aWQ9TTN3eE1qQTNmREI4TUh4d2FHOTBieTF3WVdkbGZIeDhmR1Z1ZkRCOGZIeDhmQSUzRCUzRA~~"
+            },
+            {
+                "title": "healthly eats",
+                "author": "the healthy cheif",
+                "img": "https://us-east-1-029060369-view.menlosecurity.com/c/0/i/aHR0cHM6Ly9wbHVzLnVuc3BsYXNoLmNvbS9wcmVtaXVtX3Bob3RvLTE2NzY0OTYwNDYxODItMzU2YTZhMGVkMDAyP3E9ODAmdz0yMDc2JmF1dG89Zm9ybWF0JmZpdD1jcm9wJml4bGliPXJiLTQuMS4wJml4aWQ9TTN3eE1qQTNmREI4TUh4d2FHOTBieTF3WVdkbGZIeDhmR1Z1ZkRCOGZIeDhmQSUzRCUzRA~~"
+            },
+            {
+                "title": "Food I found on the ground and ate",
+                "author": "a dog",
+                "img": "https://us-east-1-029060369-view.menlosecurity.com/c/0/i/aHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE0NjQ4MjI3NTkwMjMtZmVkNjIyZmYyYzNiP3E9ODAmdz0xMTcwJmF1dG89Zm9ybWF0JmZpdD1jcm9wJml4bGliPXJiLTQuMS4wJml4aWQ9TTN3eE1qQTNmREI4TUh4d2FHOTBieTF3WVdkbGZIeDhmR1Z1ZkRCOGZIeDhmQSUzRCUzRA~~"
+            }
+        ]
+    }
+}
