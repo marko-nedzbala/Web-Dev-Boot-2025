@@ -11,6 +11,8 @@ Section12 -> Bootstrap, and side Navbars
 Section13 -> Museum of Candy
 Section28 -> AJAX and APIs (Example TV API)
 Section31 -> FS Node.js example
+Section32 -> NPM
+Section33 -> Express
 
 
 
