@@ -1,6 +1,6 @@
 
 Notes for useful sections to return to:
-Section05 -> HTML: Forms & Tables
+Section05 -> HTML: Forms & Tables (Also has key value pairs in query strings)
 Section06 -> CSS: The Very Basics
 Section07 -> Selectors
 Section08 -> Box Model
@@ -9,8 +9,8 @@ Section10 -> Responsive CSS & Flexbox
 Section11 -> Pricing Panel Project
 Section12 -> Bootstrap, and side Navbars
 Section13 -> Museum of Candy
-
-
+Section28 -> AJAX and APIs (Example TV API)
+Section31 -> FS Node.js example
 
 
 
