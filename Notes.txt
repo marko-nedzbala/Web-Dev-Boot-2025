@@ -23,6 +23,7 @@ npm i nodemon
 npm i ejs
 npm i uuid
 npm i method-override
+npm i mongoose
   "scripts": {
     "start": "nodemon app.js"
 npm i ejs VS Code Plugin == https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support
@@ -31,6 +32,8 @@ npm i ejs VS Code Plugin == https://marketplace.visualstudio.com/items?itemName=
 Course Notes
 https://gist.github.com/nax3t/8ca0df4318fa5ffd5c98942292e9259c
 
+mongoose.connect('mongodb://127.0.0.1:27017/your_database_name_here')
+mongoose.set('strictQuery', true);
 
 
 
